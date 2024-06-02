@@ -1,4 +1,4 @@
-# Devops
+
 # Project Concept for DevOps Deployment of a TODO Application
 
 ## Application Lifecycle and Technology Stack
@@ -79,4 +79,3 @@ The project files are stored and tracked in the following Git repository: [Git R
 
 ---
 
-Melika Amirkhalili
